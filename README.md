@@ -1,3 +1,3 @@
 # firstrepo
 First repository in Github.
-Making first edit in teh file. 
+Making first edit in the file. 
